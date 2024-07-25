@@ -2,6 +2,12 @@
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
 
+
+#  News | homapage
+
+
+![cover-image] (./design/desktop-preview.jpg)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
